@@ -4,6 +4,20 @@
 
 The **Power Loom Color Box Automation** system is designed to automate the color box switching in a power loom for the textile industry. This project aims to change the color thread boxes automatically based on user input and machine parameters. The system is based on the **PIC18F4550 microcontroller** and utilizes a **24C128 EEPROM** for data storage, along with **proximity sensors** for thread counting. The color change mechanism is controlled by a **DC solenoid** activated via a **MOSFET**, and the machine settings are displayed on a **20x4 LCD**. This project integrates seamlessly into textile machines, ensuring smooth operation for creating multicolor fabrics like sarees.
 
+# Power Loom Color Box Automation
+
+## Images Overview
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="https://github.com/karthirilla/Power_Loom_Color_Box_Automation/blob/main/COLOR_BOX_1.jpg" alt="COLOR_BOX_1" width="150">
+  <img src="https://github.com/karthirilla/Power_Loom_Color_Box_Automation/blob/main/COLOR_BOX_2.jpg" alt="COLOR_BOX_2" width="150">
+  <img src="https://github.com/karthirilla/Power_Loom_Color_Box_Automation/blob/main/COLOR_BOX_3.jpg" alt="COLOR_BOX_3" width="150">
+  <img src="https://github.com/karthirilla/Power_Loom_Color_Box_Automation/blob/main/COLOR_BOX_4.jpg" alt="COLOR_BOX_4" width="150">
+  <img src="https://github.com/karthirilla/Power_Loom_Color_Box_Automation/blob/main/COLOR_BOX_5.jpg" alt="COLOR_BOX_5" width="150">
+  <img src="https://github.com/karthirilla/Power_Loom_Color_Box_Automation/blob/main/COLOR_BOX_6.jpg" alt="COLOR_BOX_6" width="150">
+</div>
+
+
 ### Key Features
 
 - **Microcontroller**: Uses **PIC18F4550** for controlling the entire system, including managing input data, counting threads, and activating the solenoid.
